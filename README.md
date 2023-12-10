@@ -1,2 +1,2 @@
 # photoshop
-My study and my work for geekbrains online university
+My study and my works for geekbrains online university
